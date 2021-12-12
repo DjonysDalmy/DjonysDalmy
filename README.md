@@ -3,14 +3,14 @@
 - 🎓 CIS Student - [UFSC](https://ufsc.br/)
 - 👨‍💻 Volunteer IT Assistant - [Einstein Floripa](https://einsteinfloripa.com.br/)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjonysDalmy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
- </div>
 
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif"><img align="center" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" height="300px" style="max-width: 100%;"></a>
 </p>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjonysDalmy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ </div>
 
   
   <br>
