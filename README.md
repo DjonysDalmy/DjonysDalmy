@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 💻 Tech Lead - [IBREP](https://ibrep.com.br/)
 - 🎓 CIS Student - [UFSC](https://ufsc.br/)
-- 👨‍💻 Volunteer IT Assistant - [Einstein Floripa](https://einsteinfloripa.com.br/)
+- 👨‍💻 IT Director - [Einstein Floripa](https://einsteinfloripa.com.br/)
 
 
 <p align="center">
