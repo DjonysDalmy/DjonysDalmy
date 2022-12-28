@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 💻 Tech Lead - [IBREP](https://ibrep.com.br/)
-- 🎓 CS Student - [UFSC](https://ufsc.br/)
-- 👨‍💻 IT Assistant - [Einstein Floripa](https://einsteinfloripa.com.br/)
+College:
+- 🎓  [UFSC](https://ine.ufsc.br/)
+
+Organizations:
+- 👨‍💻  [IBREP](https://ibrep.com.br/)
+- 👨‍💻  [Einstein Floripa](https://einsteinfloripa.com.br/)
 
 
 <p align="center">
