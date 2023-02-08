@@ -1,11 +1,4 @@
 ### Hi there 👋
-College:
-- 🎓  [UFSC](https://ine.ufsc.br/)
-
-Organizations:
-- 👨‍💻  [IBREP](https://ibrep.com.br/)
-- 👨‍💻  [Einstein Floripa](https://einsteinfloripa.com.br/)
-
 
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif"><img align="center" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" height="300px" style="max-width: 100%;"></a>
